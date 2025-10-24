@@ -1,4 +1,4 @@
-## coputer engineering student @ TU Vienna | java • linux • vhdl 
+### coputer engineering student @ TU Vienna | java • linux • vhdl 
 
 <!--
 **mariofrnz/mariofrnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
